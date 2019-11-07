@@ -1,0 +1,13 @@
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\bin\Debug\MastermindUserInterface.exe
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\bin\Debug\MastermindUserInterface.pdb
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\bin\Debug\MastermindLogicUnit.dll
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\bin\Debug\MastermindLogicUnit.pdb
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.csprojAssemblyReference.cache
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.BoardForm.resources
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.NewGameForm.resources
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.PickAColorForm.resources
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.csproj.GenerateResource.cache
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.csproj.CopyComplete
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.exe
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindUserInterface\obj\Debug\MastermindUserInterface.pdb

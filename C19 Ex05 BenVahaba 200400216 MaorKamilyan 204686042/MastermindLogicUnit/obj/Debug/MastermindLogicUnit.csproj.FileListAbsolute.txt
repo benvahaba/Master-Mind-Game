@@ -1,0 +1,6 @@
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\bin\Debug\MastermindLogicUnit.dll
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\bin\Debug\MastermindLogicUnit.pdb
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\obj\Debug\MastermindLogicUnit.csprojAssemblyReference.cache
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\obj\Debug\MastermindLogicUnit.csproj.CoreCompileInputs.cache
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\obj\Debug\MastermindLogicUnit.dll
+D:\OneDrive\c sharp course\hagasha 5\completed\C19 Ex05 BenVahaba 200400216 MaorKamilyan 204686042\MastermindLogicUnit\obj\Debug\MastermindLogicUnit.pdb
